@@ -101,9 +101,9 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-30832111-1'
     getclicky :
-      site_id : 
+      site_id : 1
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
 
